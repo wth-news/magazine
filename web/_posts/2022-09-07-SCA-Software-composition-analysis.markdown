@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SCA - Software Composition Analysis"
-date:   2022-08-07 00:00:00 +0200
+date:   2022-09-07 00:00:00 +0200
 permalink: /sca-software-composition-analysis
 categories:
 author: Samuel López Saura & Guillermo Martínez Esteban

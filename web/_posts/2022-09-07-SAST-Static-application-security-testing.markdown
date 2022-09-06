@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SAST - Static Application Security Testing"
-date:   2022-08-07 00:00:00 +0200
+date:   2022-09-07 00:00:00 +0200
 permalink: /sast-static-application-security-testing
 author: Guillermo Martínez Esteban & Samuel López Saura
 categories:

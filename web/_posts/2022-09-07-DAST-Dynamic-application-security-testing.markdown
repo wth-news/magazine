@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DAST - Dynamic Application Security Testing"
-date:   2022-08-07 00:00:00 +0200
+date:   2022-09-07 00:00:00 +0200
 permalink: /dast-dynamic-application-security-testing
 author: Samuel López Saura & Guillermo Martínez Esteban
 categories:
