@@ -20,6 +20,9 @@ maintainable software.
 
 # Download Magazine
 
-[Download Automatic Vulnerability Search PDF](/assets/releases/oct_22_test_driven_development.pdf)
+[Download Test Driven Development](/assets/releases/oct_22_test_driven_development.pdf)
 
+# Browse online
 
+- [TDD Theory]({% post_url 2022-10-05-TDD-Theory %})
+- [Most popular tests]({% post_url 2022-10-05-TDD-most-popular-tests %})

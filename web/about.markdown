@@ -8,18 +8,14 @@ Whathehack is a cybersecurity and development magazine made by a group of
 friends with the excuse of sharing knowledge while improving our english.
 
 The format of the magazine tries to offers a quickstart on a specific
-topic each month.
-
-Learn with us the first Wednesday of each month on whathehack.com.
+topic each release.
 
 ## Who's behind?
 
 ### Authors
 
-- [Samuel López Saura](https://es.linkedin.com/in/sam-sec)
-- [Guillermo Martinez Esteban](https://www.linkedin.com/in/guillermo-mart%C3%ADnez-esteban-660111119)
-
-(Don't let the order fool you, we are both completely involved in this project)
+- Samuel López Saura [Linkedin](https://es.linkedin.com/in/sam-sec)
+- Guillermo Martinez Esteban [Linkedin](https://www.linkedin.com/in/guillermo-mart%C3%ADnez-esteban-660111119)
 
 ## Special thanks
 
